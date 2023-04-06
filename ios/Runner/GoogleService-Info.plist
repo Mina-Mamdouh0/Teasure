@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>684950209020-8i310hc8f3g25rn2ckk9tab99k0nse44.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.684950209020-8i310hc8f3g25rn2ckk9tab99k0nse44</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>684950209020-02orsngmvibi3vstkj1uupon4s1ngiif.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBlfDp263_yqMFKI38ic0owQcjXKZkMrYE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>684950209020</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.finology</string>
+	<key>PROJECT_ID</key>
+	<string>treasure-b7db0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>treasure-b7db0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:684950209020:ios:c61788ec98f5c4ab853279</string>
+	<key>DATABASE_URL</key>
+	<string>https://treasure-b7db0-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

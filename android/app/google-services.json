@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684950209020",
+    "firebase_url": "https://treasure-b7db0-default-rtdb.firebaseio.com",
+    "project_id": "treasure-b7db0",
+    "storage_bucket": "treasure-b7db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684950209020:android:42aaaa1caf647149853279",
+        "android_client_info": {
+          "package_name": "com.finology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684950209020-0k3truklsek3qb0u47396uaitriequo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GbWVRklZHxUWCrm9ZgEQpBSJksuA1Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684950209020-0k3truklsek3qb0u47396uaitriequo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684950209020-4pv6dt49shem809757p19msp580b0f48.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.Treasur"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "FinologyGit",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "FinologyGit (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "FinologyGit (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_credit_card-master",
+            "cwd": "flutter_credit_card-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_credit_card-master (profile mode)",
+            "cwd": "flutter_credit_card-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_credit_card-master (release mode)",
+            "cwd": "flutter_credit_card-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
